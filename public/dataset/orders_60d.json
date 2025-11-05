@@ -1,0 +1,6632 @@
+[
+    {
+        "id": "ORDQRAQI",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTK3OMD",
+            "name": "Natália Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-08T18:58:05",
+            "preparationTime": 20,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-08T18:38:05",
+        "total": {
+            "orderAmount": 114.14
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDVWY3R",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTZTPLC",
+            "name": "Natália Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-14T05:58:50",
+            "preparationTime": 12,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-14T05:46:50",
+        "total": {
+            "orderAmount": 89.25
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDZAKGM",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTIH6MV",
+            "name": "Otávio Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-31T17:14:08",
+            "preparationTime": 49,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-31T16:25:08",
+        "total": {
+            "orderAmount": 116.34
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD0224W",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTK0YEH",
+            "name": "Vitória Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-02T09:53:13",
+            "preparationTime": 36,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-02T09:17:13",
+        "total": {
+            "orderAmount": 109.98
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDBA5MF",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST36BCP",
+            "name": "Vitória Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-18T09:20:50",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-18T08:39:50",
+        "total": {
+            "orderAmount": 78.22
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD11U64",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST5VDB8",
+            "name": "Otávio Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-31T02:07:46",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-31T01:26:46",
+        "total": {
+            "orderAmount": 75.47
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDW56FK",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTPS0DX",
+            "name": "Karen Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-08T06:32:32",
+            "preparationTime": 45,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-08T05:47:32",
+        "total": {
+            "orderAmount": 62.52
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDI3MSD",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTN1MXF",
+            "name": "Rafael Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-11T17:09:39",
+            "preparationTime": 38,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-11T16:31:39",
+        "total": {
+            "orderAmount": 118.18
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD8SY7P",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST1ZSCM",
+            "name": "Marina Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-06T18:59:35",
+            "preparationTime": 37,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-06T18:22:35",
+        "total": {
+            "orderAmount": 84.8
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDFU992",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST59P5Z",
+            "name": "João Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-01T03:45:19",
+            "preparationTime": 35,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-01T03:10:19",
+        "total": {
+            "orderAmount": 105.55
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDZQHT2",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTXZ52O",
+            "name": "Gabriela Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-26T07:14:15",
+            "preparationTime": 27,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-26T06:47:15",
+        "total": {
+            "orderAmount": 114.01
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDSTHSL",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTMWA6T",
+            "name": "Isabela Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-07T10:29:08",
+            "preparationTime": 44,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-07T09:45:08",
+        "total": {
+            "orderAmount": 80.07
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDJSE17",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTQUAMI",
+            "name": "Tiago Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-03T20:49:01",
+            "preparationTime": 42,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-03T20:07:01",
+        "total": {
+            "orderAmount": 66.63
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDUFN0D",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTSG2QF",
+            "name": "Natália Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-01T19:32:30",
+            "preparationTime": 32,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-01T19:00:30",
+        "total": {
+            "orderAmount": 77.95
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDHCYOU",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST25VW9",
+            "name": "Paula Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-10T16:19:10",
+            "preparationTime": 13,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-10T16:06:10",
+        "total": {
+            "orderAmount": 85.49
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDEZ5EH",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTR07N8",
+            "name": "Vitória Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-06T02:20:03",
+            "preparationTime": 42,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-06T01:38:03",
+        "total": {
+            "orderAmount": 67.63
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDFN9KR",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST2FVB6",
+            "name": "João Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-01T23:09:51",
+            "preparationTime": 33,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-01T22:36:51",
+        "total": {
+            "orderAmount": 94.31
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD5PUU6",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST2RZV1",
+            "name": "Rafael Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-31T21:13:39",
+            "preparationTime": 10,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-31T21:03:39",
+        "total": {
+            "orderAmount": 67.34
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD2XOIO",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTT860X",
+            "name": "Felipe Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-29T14:38:31",
+            "preparationTime": 19,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-29T14:19:31",
+        "total": {
+            "orderAmount": 111.98
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDD8T18",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTS1SAX",
+            "name": "Sabrina Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-29T13:45:43",
+            "preparationTime": 45,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-29T13:00:43",
+        "total": {
+            "orderAmount": 98.71
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDP3VOB",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST5APO4",
+            "name": "Karen Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-05T13:34:30",
+            "preparationTime": 23,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-05T13:11:30",
+        "total": {
+            "orderAmount": 74.72
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDKG1F8",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTYC8GZ",
+            "name": "João Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-19T15:21:13",
+            "preparationTime": 17,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-19T15:04:13",
+        "total": {
+            "orderAmount": 118.79
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDN3EH1",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTVR1NE",
+            "name": "Bruno Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-29T12:29:55",
+            "preparationTime": 19,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-29T12:10:55",
+        "total": {
+            "orderAmount": 84.77
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDI5J8Y",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTIT2KO",
+            "name": "Carla Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-06T14:56:45",
+            "preparationTime": 14,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-06T14:42:45",
+        "total": {
+            "orderAmount": 89.05
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDTP6QA",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTQ3K8A",
+            "name": "Paula Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-14T08:54:25",
+            "preparationTime": 33,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-14T08:21:25",
+        "total": {
+            "orderAmount": 92.43
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDH4KFT",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTCDZ30",
+            "name": "Isabela Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-18T20:26:27",
+            "preparationTime": 34,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-18T19:52:27",
+        "total": {
+            "orderAmount": 119.95
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDQI9MQ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTVAYXA",
+            "name": "Paula Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-10T03:24:14",
+            "preparationTime": 31,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-10T02:53:14",
+        "total": {
+            "orderAmount": 98.11
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDROC5X",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTT63QE",
+            "name": "Marina Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-04T16:26:21",
+            "preparationTime": 36,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-04T15:50:21",
+        "total": {
+            "orderAmount": 93.35
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD9ENGA",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST01YZG",
+            "name": "Vitória Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-15T21:16:36",
+            "preparationTime": 21,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-15T20:55:36",
+        "total": {
+            "orderAmount": 110.35
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDRZVA9",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTWDJSG",
+            "name": "Gabriela Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-01T14:46:27",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-01T14:05:27",
+        "total": {
+            "orderAmount": 118.04
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDE7450",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTJ4A8Y",
+            "name": "Vitória Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-09T11:03:38",
+            "preparationTime": 14,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-09T10:49:38",
+        "total": {
+            "orderAmount": 95.29
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD7B7P9",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTJYQN1",
+            "name": "Henrique Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-29T07:01:34",
+            "preparationTime": 10,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-29T06:51:34",
+        "total": {
+            "orderAmount": 116.27
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDHCUA0",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST9PCIF",
+            "name": "João Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-07-29T13:11:19",
+            "preparationTime": 44,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-07-29T12:27:19",
+        "total": {
+            "orderAmount": 86.93
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD274IR",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST833SI",
+            "name": "Carla Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-07-31T09:20:43",
+            "preparationTime": 40,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-07-31T08:40:43",
+        "total": {
+            "orderAmount": 85.92
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDDCBL4",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTCE7PK",
+            "name": "Natália Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-23T05:52:54",
+            "preparationTime": 16,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-23T05:36:54",
+        "total": {
+            "orderAmount": 97.52
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDOWO52",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTWQQPW",
+            "name": "Diego Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-19T13:37:43",
+            "preparationTime": 45,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-19T12:52:43",
+        "total": {
+            "orderAmount": 63.13
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDDVC2G",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTUWJP0",
+            "name": "Otávio Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-16T17:21:50",
+            "preparationTime": 43,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-16T16:38:50",
+        "total": {
+            "orderAmount": 79.69
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDP81L5",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST1FLMN",
+            "name": "Ana Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-28T07:36:11",
+            "preparationTime": 12,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-28T07:24:11",
+        "total": {
+            "orderAmount": 63.63
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD4PHH6",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST2MYZ9",
+            "name": "Vitória Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-16T14:10:11",
+            "preparationTime": 13,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-16T13:57:11",
+        "total": {
+            "orderAmount": 74.24
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDD56R7",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTWYQHR",
+            "name": "Karen Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-29T22:39:16",
+            "preparationTime": 49,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-29T21:50:16",
+        "total": {
+            "orderAmount": 77.98
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDAMTFP",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTW6M9H",
+            "name": "João Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-07-29T16:48:16",
+            "preparationTime": 21,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-07-29T16:27:16",
+        "total": {
+            "orderAmount": 109.57
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDGA46A",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTYN2D7",
+            "name": "João Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-20T21:05:24",
+            "preparationTime": 21,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-20T20:44:24",
+        "total": {
+            "orderAmount": 80.39
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD55CF7",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST2GNNV",
+            "name": "Henrique Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-18T05:13:41",
+            "preparationTime": 33,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-18T04:40:41",
+        "total": {
+            "orderAmount": 99.65
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDIWKES",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTVR022",
+            "name": "Vitória Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-12T11:16:09",
+            "preparationTime": 44,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-12T10:32:09",
+        "total": {
+            "orderAmount": 77.65
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDGZSR8",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTRUW2X",
+            "name": "Gabriela Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-17T10:20:24",
+            "preparationTime": 42,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-17T09:38:24",
+        "total": {
+            "orderAmount": 82.46
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD5U7NT",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTEDQMV",
+            "name": "Otávio Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-27T18:13:45",
+            "preparationTime": 25,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-27T17:48:45",
+        "total": {
+            "orderAmount": 83.75
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDNRJAP",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTJC6KS",
+            "name": "Sabrina Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-09T00:59:40",
+            "preparationTime": 37,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-09T00:22:40",
+        "total": {
+            "orderAmount": 87.07
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDTMYJ0",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST14GVE",
+            "name": "Sabrina Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-02T00:11:46",
+            "preparationTime": 16,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-01T23:55:46",
+        "total": {
+            "orderAmount": 67.12
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD831AX",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST985I0",
+            "name": "Gabriela Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-13T01:59:15",
+            "preparationTime": 28,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-13T01:31:15",
+        "total": {
+            "orderAmount": 109.34
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD4P7PP",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST4BF5L",
+            "name": "Ana Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-06T09:11:18",
+            "preparationTime": 39,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-06T08:32:18",
+        "total": {
+            "orderAmount": 80.44
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD1YKVU",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTBF99U",
+            "name": "Vitória Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-03T15:06:35",
+            "preparationTime": 24,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-03T14:42:35",
+        "total": {
+            "orderAmount": 85.15
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDTGDUQ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST6DDTB",
+            "name": "Vitória Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-04T23:03:53",
+            "preparationTime": 34,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-04T22:29:53",
+        "total": {
+            "orderAmount": 72.25
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDHKSQN",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTAL6O9",
+            "name": "Elisa Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-04T12:14:54",
+            "preparationTime": 22,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-04T11:52:54",
+        "total": {
+            "orderAmount": 64.17
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDEHPZR",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTV7VSY",
+            "name": "Isabela Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-24T18:28:41",
+            "preparationTime": 14,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-24T18:14:41",
+        "total": {
+            "orderAmount": 83.34
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD3S65Q",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTU0K5Q",
+            "name": "João Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-05T19:40:21",
+            "preparationTime": 38,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-05T19:02:21",
+        "total": {
+            "orderAmount": 63.84
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD0Q6GU",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTO8I5J",
+            "name": "Sabrina Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-24T10:28:10",
+            "preparationTime": 36,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-24T09:52:10",
+        "total": {
+            "orderAmount": 74.95
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDEN1S2",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTOFHBA",
+            "name": "Otávio Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-11T00:35:51",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-10T23:54:51",
+        "total": {
+            "orderAmount": 84.68
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDE7L0R",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTCTI8F",
+            "name": "Isabela Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-07-30T02:02:11",
+            "preparationTime": 22,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-07-30T01:40:11",
+        "total": {
+            "orderAmount": 83.8
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDTOC1Y",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTFMHBY",
+            "name": "Gabriela Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-26T14:16:24",
+            "preparationTime": 48,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-26T13:28:24",
+        "total": {
+            "orderAmount": 66.03
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDVBNHI",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST6HABA",
+            "name": "Gabriela Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-10T03:21:50",
+            "preparationTime": 34,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-10T02:47:50",
+        "total": {
+            "orderAmount": 101.42
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDS3LWW",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST7OPID",
+            "name": "Karen Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-02T07:44:23",
+            "preparationTime": 20,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-02T07:24:23",
+        "total": {
+            "orderAmount": 103.44
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDHXKWB",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST5O1R9",
+            "name": "Sabrina Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-18T17:01:06",
+            "preparationTime": 30,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-18T16:31:06",
+        "total": {
+            "orderAmount": 60.72
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDN71EG",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST1Y9XC",
+            "name": "Ana Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-28T07:31:34",
+            "preparationTime": 16,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-28T07:15:34",
+        "total": {
+            "orderAmount": 95.99
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDSZAA1",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTEIPIC",
+            "name": "Elisa Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-09T01:32:06",
+            "preparationTime": 34,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-09T00:58:06",
+        "total": {
+            "orderAmount": 90.66
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDB7V80",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTLKX1S",
+            "name": "Natália Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-17T21:41:08",
+            "preparationTime": 22,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-17T21:19:08",
+        "total": {
+            "orderAmount": 69.1
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDB792Z",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTI5SGW",
+            "name": "Carla Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-18T00:54:21",
+            "preparationTime": 31,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-18T00:23:21",
+        "total": {
+            "orderAmount": 80.56
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDEGT2H",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTSPQFH",
+            "name": "Natália Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-11T18:45:36",
+            "preparationTime": 13,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-11T18:32:36",
+        "total": {
+            "orderAmount": 98.06
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDH5R8M",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTNQPVP",
+            "name": "Elisa Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-10T13:57:51",
+            "preparationTime": 29,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-10T13:28:51",
+        "total": {
+            "orderAmount": 77.12
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDVF0JQ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTQNVCE",
+            "name": "Paula Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-10T17:20:04",
+            "preparationTime": 37,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-10T16:43:04",
+        "total": {
+            "orderAmount": 111.24
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDR778N",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTRXVOB",
+            "name": "Diego Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-15T15:50:54",
+            "preparationTime": 10,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-15T15:40:54",
+        "total": {
+            "orderAmount": 60.77
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDSRYZX",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST70IB3",
+            "name": "Ana Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-22T19:54:42",
+            "preparationTime": 22,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-22T19:32:42",
+        "total": {
+            "orderAmount": 105.78
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD84A1X",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST7OV6S",
+            "name": "Gabriela Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-25T12:28:34",
+            "preparationTime": 19,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-25T12:09:34",
+        "total": {
+            "orderAmount": 75.26
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDXNLO5",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST0DW1M",
+            "name": "Elisa Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-15T15:54:29",
+            "preparationTime": 26,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-15T15:28:29",
+        "total": {
+            "orderAmount": 101.51
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDACZSX",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST0GNZH",
+            "name": "Felipe Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-14T09:39:50",
+            "preparationTime": 29,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-14T09:10:50",
+        "total": {
+            "orderAmount": 60.39
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDCG1J6",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTOWW5F",
+            "name": "João Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-16T01:31:04",
+            "preparationTime": 46,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-16T00:45:04",
+        "total": {
+            "orderAmount": 108.86
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDIR1AJ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST8X2BH",
+            "name": "Ana Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-07-31T22:29:41",
+            "preparationTime": 27,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-07-31T22:02:41",
+        "total": {
+            "orderAmount": 63.86
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDPN693",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST7XNCM",
+            "name": "Karen Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-30T18:43:12",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-30T18:02:12",
+        "total": {
+            "orderAmount": 88.39
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDAET81",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTIQY5S",
+            "name": "Gabriela Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-23T06:00:16",
+            "preparationTime": 35,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-23T05:25:16",
+        "total": {
+            "orderAmount": 103.51
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDYIR02",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTM77RX",
+            "name": "Diego Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-02T11:41:54",
+            "preparationTime": 50,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-02T10:51:54",
+        "total": {
+            "orderAmount": 81.61
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD2ZBRD",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST399Q6",
+            "name": "Diego Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-22T03:07:23",
+            "preparationTime": 19,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-22T02:48:23",
+        "total": {
+            "orderAmount": 112.19
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDZD9B7",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTLNKZX",
+            "name": "Diego Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-10T04:39:20",
+            "preparationTime": 25,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-10T04:14:20",
+        "total": {
+            "orderAmount": 72.7
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD71VXN",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTZ0NXU",
+            "name": "Natália Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-30T08:27:58",
+            "preparationTime": 15,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-30T08:12:58",
+        "total": {
+            "orderAmount": 107.73
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDMVG7U",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTELN0L",
+            "name": "Tiago Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-08T20:22:24",
+            "preparationTime": 17,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-08T20:05:24",
+        "total": {
+            "orderAmount": 77.46
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD7EXVD",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTA4L3K",
+            "name": "Henrique Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-02T12:02:01",
+            "preparationTime": 37,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-02T11:25:01",
+        "total": {
+            "orderAmount": 79.18
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD43BLS",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTYJ4UW",
+            "name": "Gabriela Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-09T14:13:32",
+            "preparationTime": 48,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-09T13:25:32",
+        "total": {
+            "orderAmount": 77.0
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD3H03Z",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTB5GRO",
+            "name": "Felipe Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-30T09:10:59",
+            "preparationTime": 13,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-30T08:57:59",
+        "total": {
+            "orderAmount": 118.87
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD1OTKZ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTH4OE1",
+            "name": "Tiago Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-13T00:16:08",
+            "preparationTime": 31,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-12T23:45:08",
+        "total": {
+            "orderAmount": 85.35
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDR6H2H",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTXN4D2",
+            "name": "Elisa Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-09T23:08:49",
+            "preparationTime": 20,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-09T22:48:49",
+        "total": {
+            "orderAmount": 94.63
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD8ESMP",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTF0IEO",
+            "name": "João Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-13T01:08:37",
+            "preparationTime": 13,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-13T00:55:37",
+        "total": {
+            "orderAmount": 65.76
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDNWQAE",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTEX6IV",
+            "name": "Tiago Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-21T00:47:11",
+            "preparationTime": 15,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-21T00:32:11",
+        "total": {
+            "orderAmount": 106.66
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDZKELZ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST5TOZO",
+            "name": "Sabrina Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-14T01:40:52",
+            "preparationTime": 47,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-14T00:53:52",
+        "total": {
+            "orderAmount": 70.87
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD3X1HX",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTE5ZAQ",
+            "name": "Karen Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-19T09:25:06",
+            "preparationTime": 43,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-19T08:42:06",
+        "total": {
+            "orderAmount": 110.23
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDU4B9S",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTNTP8A",
+            "name": "João Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-13T16:28:49",
+            "preparationTime": 46,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-13T15:42:49",
+        "total": {
+            "orderAmount": 72.37
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDZS9MT",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTHD3IG",
+            "name": "João Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-23T01:56:26",
+            "preparationTime": 44,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-23T01:12:26",
+        "total": {
+            "orderAmount": 86.7
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDPTJXF",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTQ8Y7F",
+            "name": "Gabriela Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-10T12:48:29",
+            "preparationTime": 47,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-10T12:01:29",
+        "total": {
+            "orderAmount": 81.54
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDVPF9P",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTAVCED",
+            "name": "Sabrina Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-29T22:41:57",
+            "preparationTime": 33,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-29T22:08:57",
+        "total": {
+            "orderAmount": 93.82
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD2F2JD",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST9I82E",
+            "name": "Rafael Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-25T07:47:43",
+            "preparationTime": 50,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-25T06:57:43",
+        "total": {
+            "orderAmount": 65.34
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD5TV6G",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST8OM08",
+            "name": "Sabrina Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-05T01:31:46",
+            "preparationTime": 16,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-05T01:15:46",
+        "total": {
+            "orderAmount": 91.74
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDYZXFU",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTJ7XN1",
+            "name": "Vitória Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-23T04:24:21",
+            "preparationTime": 40,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-23T03:44:21",
+        "total": {
+            "orderAmount": 95.54
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDSJP75",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST3K48O",
+            "name": "Karen Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-14T13:48:02",
+            "preparationTime": 38,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-14T13:10:02",
+        "total": {
+            "orderAmount": 119.17
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDC0TR5",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST8PS0R",
+            "name": "Rafael Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-14T02:05:29",
+            "preparationTime": 25,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-14T01:40:29",
+        "total": {
+            "orderAmount": 116.69
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDZZ0I0",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST835TV",
+            "name": "Vitória Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-25T11:16:08",
+            "preparationTime": 10,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-25T11:06:08",
+        "total": {
+            "orderAmount": 96.98
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDS8PNN",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTE6IT1",
+            "name": "Diego Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-18T12:50:52",
+            "preparationTime": 21,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-18T12:29:52",
+        "total": {
+            "orderAmount": 64.51
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDUHK7X",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST3BQWR",
+            "name": "Leonardo Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-07-29T06:37:22",
+            "preparationTime": 28,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-07-29T06:09:22",
+        "total": {
+            "orderAmount": 75.89
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDM0OAP",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTHT6O6",
+            "name": "Ana Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-08T10:27:37",
+            "preparationTime": 31,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-08T09:56:37",
+        "total": {
+            "orderAmount": 77.9
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDPG3DP",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST4FMPM",
+            "name": "Gabriela Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-27T02:31:04",
+            "preparationTime": 40,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-27T01:51:04",
+        "total": {
+            "orderAmount": 83.72
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD6FHRX",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTJPT2Z",
+            "name": "Karen Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-07T22:13:51",
+            "preparationTime": 12,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-07T22:01:51",
+        "total": {
+            "orderAmount": 68.02
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDEMAYB",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST3PVAR",
+            "name": "João Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-08T12:08:39",
+            "preparationTime": 18,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-08T11:50:39",
+        "total": {
+            "orderAmount": 66.58
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDGKEJZ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTXPR2D",
+            "name": "Rafael Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-07T20:33:20",
+            "preparationTime": 25,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-07T20:08:20",
+        "total": {
+            "orderAmount": 97.06
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDEOJGF",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTAH5NS",
+            "name": "Henrique Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-12T11:32:24",
+            "preparationTime": 47,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-12T10:45:24",
+        "total": {
+            "orderAmount": 97.73
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDBDN7Z",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTI6GAX",
+            "name": "Karen Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-08T12:35:06",
+            "preparationTime": 40,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-08T11:55:06",
+        "total": {
+            "orderAmount": 63.68
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDG8NKD",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTAT5L0",
+            "name": "Leonardo Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-07T19:59:30",
+            "preparationTime": 27,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-07T19:32:30",
+        "total": {
+            "orderAmount": 114.51
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDN5E0E",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTV6XGZ",
+            "name": "Diego Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-18T10:46:47",
+            "preparationTime": 25,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-18T10:21:47",
+        "total": {
+            "orderAmount": 99.01
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDTFEPZ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST614UM",
+            "name": "Leonardo Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-10T22:10:50",
+            "preparationTime": 29,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-10T21:41:50",
+        "total": {
+            "orderAmount": 103.52
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD2GJ8K",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST8C9G3",
+            "name": "Paula Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-17T21:44:20",
+            "preparationTime": 14,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-17T21:30:20",
+        "total": {
+            "orderAmount": 88.97
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDUOVHA",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTUVA7S",
+            "name": "Rafael Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-16T11:51:16",
+            "preparationTime": 20,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-16T11:31:16",
+        "total": {
+            "orderAmount": 86.26
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDEITKX",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST7JE5B",
+            "name": "Henrique Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-24T03:01:04",
+            "preparationTime": 24,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-24T02:37:04",
+        "total": {
+            "orderAmount": 77.78
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD8L85J",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTE6K9W",
+            "name": "Ana Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-28T11:38:28",
+            "preparationTime": 10,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-28T11:28:28",
+        "total": {
+            "orderAmount": 98.92
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDX57U0",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTY8JWV",
+            "name": "Gabriela Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-07-30T13:45:25",
+            "preparationTime": 21,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-07-30T13:24:25",
+        "total": {
+            "orderAmount": 75.36
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDFI0N6",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTDGG5G",
+            "name": "Paula Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-28T04:42:30",
+            "preparationTime": 27,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-28T04:15:30",
+        "total": {
+            "orderAmount": 72.24
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDYGFPQ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTXO0E1",
+            "name": "Ana Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-15T07:19:03",
+            "preparationTime": 29,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-15T06:50:03",
+        "total": {
+            "orderAmount": 69.78
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD1XBID",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTFWA88",
+            "name": "Diego Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-17T06:46:46",
+            "preparationTime": 34,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-17T06:12:46",
+        "total": {
+            "orderAmount": 61.24
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD63LRI",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTTJTAB",
+            "name": "Sabrina Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-10T19:30:48",
+            "preparationTime": 22,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-10T19:08:48",
+        "total": {
+            "orderAmount": 68.35
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDINMK7",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTYYZ6R",
+            "name": "Diego Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-19T19:27:11",
+            "preparationTime": 19,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-19T19:08:11",
+        "total": {
+            "orderAmount": 60.07
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDM7DBF",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTPMGP6",
+            "name": "João Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-30T10:30:06",
+            "preparationTime": 32,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-30T09:58:06",
+        "total": {
+            "orderAmount": 64.58
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDNJ622",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST592FF",
+            "name": "Otávio Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-15T12:47:19",
+            "preparationTime": 16,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-15T12:31:19",
+        "total": {
+            "orderAmount": 76.27
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDFLE1M",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTRR9VW",
+            "name": "Elisa Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-07T14:23:06",
+            "preparationTime": 46,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-07T13:37:06",
+        "total": {
+            "orderAmount": 85.65
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDT3NUP",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTUY0ZI",
+            "name": "Ana Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-18T21:02:32",
+            "preparationTime": 45,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-18T20:17:32",
+        "total": {
+            "orderAmount": 89.83
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDCM453",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTKF486",
+            "name": "Henrique Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-11T00:09:36",
+            "preparationTime": 45,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-10T23:24:36",
+        "total": {
+            "orderAmount": 88.44
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDF0ZPB",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTDURVF",
+            "name": "Elisa Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-04T14:47:11",
+            "preparationTime": 18,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-04T14:29:11",
+        "total": {
+            "orderAmount": 67.03
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDFG00Z",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTKOM2Z",
+            "name": "João Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-22T07:28:34",
+            "preparationTime": 25,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-22T07:03:34",
+        "total": {
+            "orderAmount": 64.62
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDFOP8Q",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTZJULI",
+            "name": "Felipe Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-14T21:45:16",
+            "preparationTime": 12,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-14T21:33:16",
+        "total": {
+            "orderAmount": 96.25
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDCO39V",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTCYRXO",
+            "name": "Marina Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-05T22:24:18",
+            "preparationTime": 18,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-05T22:06:18",
+        "total": {
+            "orderAmount": 104.59
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDCV4BK",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTTCV1L",
+            "name": "Sabrina Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-08T13:26:32",
+            "preparationTime": 37,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-08T12:49:32",
+        "total": {
+            "orderAmount": 71.68
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDB9RBD",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTL918S",
+            "name": "Karen Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-22T09:49:56",
+            "preparationTime": 27,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-22T09:22:56",
+        "total": {
+            "orderAmount": 65.1
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDD3FVN",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTV4KFQ",
+            "name": "Carla Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-24T02:18:20",
+            "preparationTime": 16,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-24T02:02:20",
+        "total": {
+            "orderAmount": 79.88
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD9VS1Q",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTEKW7B",
+            "name": "Marina Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-15T18:09:32",
+            "preparationTime": 20,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-15T17:49:32",
+        "total": {
+            "orderAmount": 119.6
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD2F5T8",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST2DDL7",
+            "name": "Felipe Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-15T08:09:43",
+            "preparationTime": 19,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-15T07:50:43",
+        "total": {
+            "orderAmount": 94.01
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD1JRJ5",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTXFEUB",
+            "name": "João Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-15T11:02:03",
+            "preparationTime": 32,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-15T10:30:03",
+        "total": {
+            "orderAmount": 65.35
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD8NYSJ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST5YWX0",
+            "name": "Henrique Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-19T02:00:35",
+            "preparationTime": 38,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-19T01:22:35",
+        "total": {
+            "orderAmount": 82.0
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDOCNQD",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTQX6QD",
+            "name": "Diego Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-13T09:59:46",
+            "preparationTime": 16,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-13T09:43:46",
+        "total": {
+            "orderAmount": 77.44
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD9RZRK",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTBFQXL",
+            "name": "Bruno Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-28T20:25:38",
+            "preparationTime": 35,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-28T19:50:38",
+        "total": {
+            "orderAmount": 79.72
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDB58YJ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTWDCOK",
+            "name": "Otávio Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-13T00:05:27",
+            "preparationTime": 33,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-12T23:32:27",
+        "total": {
+            "orderAmount": 107.37
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD6P8KH",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST7RT28",
+            "name": "Natália Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-03T06:03:42",
+            "preparationTime": 26,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-03T05:37:42",
+        "total": {
+            "orderAmount": 71.04
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDH0UFX",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST3030A",
+            "name": "Otávio Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-23T20:02:24",
+            "preparationTime": 10,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-23T19:52:24",
+        "total": {
+            "orderAmount": 93.65
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDJ0974",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTWXUB0",
+            "name": "Gabriela Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-02T11:35:23",
+            "preparationTime": 17,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-02T11:18:23",
+        "total": {
+            "orderAmount": 107.52
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD88UA3",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTA6S5Z",
+            "name": "Otávio Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-31T20:03:53",
+            "preparationTime": 48,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-31T19:15:53",
+        "total": {
+            "orderAmount": 82.65
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD9M7QN",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTTFPKX",
+            "name": "Natália Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-08T09:36:01",
+            "preparationTime": 32,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-08T09:04:01",
+        "total": {
+            "orderAmount": 109.69
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDXWOR1",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST7DPUB",
+            "name": "João Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-08T02:43:58",
+            "preparationTime": 15,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-08T02:28:58",
+        "total": {
+            "orderAmount": 108.36
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD48M2Q",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST6X2O7",
+            "name": "Henrique Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-09T03:45:24",
+            "preparationTime": 39,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-09T03:06:24",
+        "total": {
+            "orderAmount": 93.1
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDYA6BA",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST24S0L",
+            "name": "Felipe Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-24T16:33:50",
+            "preparationTime": 26,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-24T16:07:50",
+        "total": {
+            "orderAmount": 78.44
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDX32UE",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTW9G6S",
+            "name": "Natália Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-16T18:19:52",
+            "preparationTime": 45,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-16T17:34:52",
+        "total": {
+            "orderAmount": 118.41
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD4WJT8",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTHDPWV",
+            "name": "Ana Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-23T01:31:11",
+            "preparationTime": 42,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-23T00:49:11",
+        "total": {
+            "orderAmount": 67.1
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD9W1GX",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTHG403",
+            "name": "Marina Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-09T02:39:36",
+            "preparationTime": 46,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-09T01:53:36",
+        "total": {
+            "orderAmount": 82.94
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDWUDQV",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTDK6DR",
+            "name": "Leonardo Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-27T22:48:11",
+            "preparationTime": 15,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-27T22:33:11",
+        "total": {
+            "orderAmount": 116.1
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDRWHP6",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTWQFK6",
+            "name": "Tiago Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-07T04:54:45",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-07T04:13:45",
+        "total": {
+            "orderAmount": 107.73
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDVASJE",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTVTS1H",
+            "name": "Leonardo Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-14T00:59:39",
+            "preparationTime": 31,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-14T00:28:39",
+        "total": {
+            "orderAmount": 119.62
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD7JR8M",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTTK0RS",
+            "name": "Marina Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-06T03:55:08",
+            "preparationTime": 30,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-06T03:25:08",
+        "total": {
+            "orderAmount": 68.31
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDKOV1L",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST28R5P",
+            "name": "Isabela Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-23T05:05:36",
+            "preparationTime": 22,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-23T04:43:36",
+        "total": {
+            "orderAmount": 101.22
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDM63Q6",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST8JOV5",
+            "name": "Rafael Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-17T10:43:59",
+            "preparationTime": 48,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-17T09:55:59",
+        "total": {
+            "orderAmount": 82.98
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD2MCXN",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST2ELAL",
+            "name": "Otávio Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-29T09:06:05",
+            "preparationTime": 17,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-29T08:49:05",
+        "total": {
+            "orderAmount": 70.79
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDHHUZ8",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST3YUXY",
+            "name": "Natália Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-25T14:15:08",
+            "preparationTime": 45,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-25T13:30:08",
+        "total": {
+            "orderAmount": 63.97
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDBJEQV",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTVIAA2",
+            "name": "Tiago Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-15T00:13:00",
+            "preparationTime": 22,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-14T23:51:00",
+        "total": {
+            "orderAmount": 62.98
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD67BXC",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTD20J1",
+            "name": "Marina Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-06T03:24:01",
+            "preparationTime": 18,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-06T03:06:01",
+        "total": {
+            "orderAmount": 110.5
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDZQ48E",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTNWBBA",
+            "name": "Diego Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-05T05:35:10",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-05T04:54:10",
+        "total": {
+            "orderAmount": 96.74
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD3TAYB",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST5BBKJ",
+            "name": "Vitória Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-07T08:25:37",
+            "preparationTime": 20,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-07T08:05:37",
+        "total": {
+            "orderAmount": 65.28
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDLFV46",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTWYSIR",
+            "name": "Paula Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-09T16:16:26",
+            "preparationTime": 18,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-09T15:58:26",
+        "total": {
+            "orderAmount": 95.01
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDZM4IX",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST4ZCRH",
+            "name": "Gabriela Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-11T10:25:48",
+            "preparationTime": 24,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-11T10:01:48",
+        "total": {
+            "orderAmount": 65.51
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD1SL7Z",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTX4DE7",
+            "name": "Marina Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-18T07:34:59",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-18T06:53:59",
+        "total": {
+            "orderAmount": 66.27
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDFL5XF",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST50I6G",
+            "name": "Ana Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-25T00:36:37",
+            "preparationTime": 35,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-25T00:01:37",
+        "total": {
+            "orderAmount": 71.28
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDDPFSS",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTBJDX0",
+            "name": "Natália Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-27T01:13:53",
+            "preparationTime": 32,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-27T00:41:53",
+        "total": {
+            "orderAmount": 75.93
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDVSDBI",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTDE6UI",
+            "name": "Sabrina Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-24T20:15:12",
+            "preparationTime": 35,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-24T19:40:12",
+        "total": {
+            "orderAmount": 70.6
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDOH3YR",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTGHWZK",
+            "name": "Ana Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-06T07:51:30",
+            "preparationTime": 49,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-06T07:02:30",
+        "total": {
+            "orderAmount": 101.97
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDGYFLQ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST8XPA9",
+            "name": "Carla Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-03T20:00:24",
+            "preparationTime": 29,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-03T19:31:24",
+        "total": {
+            "orderAmount": 111.15
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDRBAYK",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTIS11D",
+            "name": "Karen Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-14T10:50:18",
+            "preparationTime": 40,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-14T10:10:18",
+        "total": {
+            "orderAmount": 94.99
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDNAMZ6",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST146VE",
+            "name": "Rafael Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-14T06:37:41",
+            "preparationTime": 44,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-14T05:53:41",
+        "total": {
+            "orderAmount": 75.44
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDRI09M",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST0G8W8",
+            "name": "Sabrina Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-11T19:08:44",
+            "preparationTime": 24,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-11T18:44:44",
+        "total": {
+            "orderAmount": 99.56
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDOP9LB",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTSMWPQ",
+            "name": "Leonardo Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-31T21:58:04",
+            "preparationTime": 26,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-31T21:32:04",
+        "total": {
+            "orderAmount": 114.62
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDYSKUF",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTRCKQH",
+            "name": "Tiago Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-12T08:04:25",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-12T07:23:25",
+        "total": {
+            "orderAmount": 115.63
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD4BE52",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTS8U8Z",
+            "name": "Elisa Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-01T06:15:53",
+            "preparationTime": 29,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-01T05:46:53",
+        "total": {
+            "orderAmount": 60.31
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDIYNO6",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST67VGP",
+            "name": "Karen Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-12T23:42:02",
+            "preparationTime": 28,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-12T23:14:02",
+        "total": {
+            "orderAmount": 73.13
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDKDUWT",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTN5PEP",
+            "name": "Karen Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-20T20:31:29",
+            "preparationTime": 26,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-20T20:05:29",
+        "total": {
+            "orderAmount": 68.14
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDQ6A1D",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTF62UN",
+            "name": "Vitória Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-07T21:01:57",
+            "preparationTime": 32,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-07T20:29:57",
+        "total": {
+            "orderAmount": 85.66
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDOA35Q",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTBB3XM",
+            "name": "Diego Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-05T03:50:45",
+            "preparationTime": 13,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-05T03:37:45",
+        "total": {
+            "orderAmount": 105.32
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDY0BHF",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST0RIY4",
+            "name": "João Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-09T20:20:55",
+            "preparationTime": 31,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-09T19:49:55",
+        "total": {
+            "orderAmount": 111.86
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDAVEDH",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTR3PCE",
+            "name": "Marina Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-09T04:06:27",
+            "preparationTime": 49,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-09T03:17:27",
+        "total": {
+            "orderAmount": 101.27
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDPXEFA",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTF0ISZ",
+            "name": "Gabriela Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-26T13:18:03",
+            "preparationTime": 44,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-26T12:34:03",
+        "total": {
+            "orderAmount": 75.62
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDNJN2Q",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST3FKEO",
+            "name": "Tiago Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-24T05:11:08",
+            "preparationTime": 28,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-24T04:43:08",
+        "total": {
+            "orderAmount": 100.05
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDQ0J9M",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST4SMZO",
+            "name": "Carla Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-01T11:27:24",
+            "preparationTime": 12,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-01T11:15:24",
+        "total": {
+            "orderAmount": 114.49
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDK1KO6",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTXNQXU",
+            "name": "Rafael Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-06T11:22:44",
+            "preparationTime": 46,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-06T10:36:44",
+        "total": {
+            "orderAmount": 80.36
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDV3CB0",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTIXRYL",
+            "name": "Henrique Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-23T10:18:12",
+            "preparationTime": 30,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-23T09:48:12",
+        "total": {
+            "orderAmount": 95.33
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDCJB0P",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTNWBGD",
+            "name": "Otávio Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-07T19:37:06",
+            "preparationTime": 34,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-07T19:03:06",
+        "total": {
+            "orderAmount": 105.35
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDKHF33",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTGUWYH",
+            "name": "Elisa Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-09T12:57:00",
+            "preparationTime": 22,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-09T12:35:00",
+        "total": {
+            "orderAmount": 75.15
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDG06XR",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST3URMW",
+            "name": "Sabrina Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-05T00:47:27",
+            "preparationTime": 46,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-05T00:01:27",
+        "total": {
+            "orderAmount": 92.79
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDUESDR",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTBTA3K",
+            "name": "Isabela Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-21T21:19:49",
+            "preparationTime": 37,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-21T20:42:49",
+        "total": {
+            "orderAmount": 97.53
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDU47SO",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTCZDQ7",
+            "name": "Isabela Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-05T07:33:35",
+            "preparationTime": 20,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-05T07:13:35",
+        "total": {
+            "orderAmount": 118.09
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDFT07X",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST5IC86",
+            "name": "Bruno Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-30T12:20:15",
+            "preparationTime": 36,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-30T11:44:15",
+        "total": {
+            "orderAmount": 75.65
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDRE0DR",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTIMR25",
+            "name": "Henrique Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-05T21:07:47",
+            "preparationTime": 48,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-05T20:19:47",
+        "total": {
+            "orderAmount": 104.36
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDY0TB1",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTZPPEP",
+            "name": "Vitória Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-20T13:46:53",
+            "preparationTime": 22,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-20T13:24:53",
+        "total": {
+            "orderAmount": 92.05
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDIVI05",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST2U9AZ",
+            "name": "Bruno Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-03T15:58:09",
+            "preparationTime": 31,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-03T15:27:09",
+        "total": {
+            "orderAmount": 86.19
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDMXIKV",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTRECJT",
+            "name": "Paula Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-02T06:57:25",
+            "preparationTime": 38,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-02T06:19:25",
+        "total": {
+            "orderAmount": 70.84
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDKXSJZ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTSB6ZW",
+            "name": "Isabela Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-12T19:21:02",
+            "preparationTime": 29,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-12T18:52:02",
+        "total": {
+            "orderAmount": 116.49
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDHN3F9",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTZXQER",
+            "name": "Bruno Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-09T02:06:20",
+            "preparationTime": 43,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-09T01:23:20",
+        "total": {
+            "orderAmount": 73.83
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDKVR5N",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTBHGPB",
+            "name": "João Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-06T05:41:01",
+            "preparationTime": 29,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-06T05:12:01",
+        "total": {
+            "orderAmount": 109.63
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD763V1",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTM3PP0",
+            "name": "Bruno Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-10T07:09:40",
+            "preparationTime": 11,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-10T06:58:40",
+        "total": {
+            "orderAmount": 114.6
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDPZ1J8",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTQ9I6K",
+            "name": "Isabela Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-18T23:19:03",
+            "preparationTime": 28,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-18T22:51:03",
+        "total": {
+            "orderAmount": 111.51
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDJJJX1",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTALX44",
+            "name": "Otávio Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-01T19:21:32",
+            "preparationTime": 31,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-01T18:50:32",
+        "total": {
+            "orderAmount": 94.26
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDWUOUC",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST6T8PJ",
+            "name": "Isabela Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-01T21:08:12",
+            "preparationTime": 10,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-01T20:58:12",
+        "total": {
+            "orderAmount": 87.99
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDXIXGS",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTPLTI8",
+            "name": "Isabela Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-12T07:42:21",
+            "preparationTime": 24,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-12T07:18:21",
+        "total": {
+            "orderAmount": 97.82
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDMCPSI",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTLN3OX",
+            "name": "João Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-25T08:27:00",
+            "preparationTime": 44,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-25T07:43:00",
+        "total": {
+            "orderAmount": 103.1
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD6N7KB",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTNKFVD",
+            "name": "Gabriela Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-30T13:45:24",
+            "preparationTime": 48,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-30T12:57:24",
+        "total": {
+            "orderAmount": 107.29
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDXF1X8",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST89U9W",
+            "name": "Natália Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-23T14:32:26",
+            "preparationTime": 23,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-23T14:09:26",
+        "total": {
+            "orderAmount": 82.73
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDPJ4KI",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTI1NQ0",
+            "name": "Diego Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-17T23:21:09",
+            "preparationTime": 48,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-17T22:33:09",
+        "total": {
+            "orderAmount": 88.34
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDCNRI2",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTI397I",
+            "name": "Natália Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-21T11:14:35",
+            "preparationTime": 33,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-21T10:41:35",
+        "total": {
+            "orderAmount": 64.78
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDOSFR5",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTHGQGP",
+            "name": "Sabrina Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-09T11:42:33",
+            "preparationTime": 28,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-09T11:14:33",
+        "total": {
+            "orderAmount": 80.49
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDGCSTN",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTPEZIK",
+            "name": "Karen Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-07-31T09:14:51",
+            "preparationTime": 12,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-07-31T09:02:51",
+        "total": {
+            "orderAmount": 110.03
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD86W0P",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST1Z00V",
+            "name": "Rafael Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-26T10:33:30",
+            "preparationTime": 12,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-26T10:21:30",
+        "total": {
+            "orderAmount": 64.43
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDQLG0K",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST1IRBS",
+            "name": "Rafael Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-02T11:45:02",
+            "preparationTime": 47,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-02T10:58:02",
+        "total": {
+            "orderAmount": 95.58
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD8B850",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTPK5LM",
+            "name": "Felipe Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-28T23:16:28",
+            "preparationTime": 28,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-28T22:48:28",
+        "total": {
+            "orderAmount": 79.37
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDK7917",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTXFH41",
+            "name": "Ana Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-22T23:55:47",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-22T23:14:47",
+        "total": {
+            "orderAmount": 86.34
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDNK8PQ",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTEQ7Z7",
+            "name": "Diego Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-16T21:05:36",
+            "preparationTime": 10,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-16T20:55:36",
+        "total": {
+            "orderAmount": 89.3
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD0EMC2",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST0LSJW",
+            "name": "Rafael Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-11T07:50:32",
+            "preparationTime": 26,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-11T07:24:32",
+        "total": {
+            "orderAmount": 65.21
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDL4X5B",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTWAEN7",
+            "name": "Gabriela Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-05T12:18:38",
+            "preparationTime": 37,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-05T11:41:38",
+        "total": {
+            "orderAmount": 66.03
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDKH584",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST0ACUH",
+            "name": "Felipe Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-08T06:35:13",
+            "preparationTime": 41,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-08T05:54:13",
+        "total": {
+            "orderAmount": 108.83
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDWRXGK",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTIKR2O",
+            "name": "Leonardo Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-23T17:34:59",
+            "preparationTime": 49,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-23T16:45:59",
+        "total": {
+            "orderAmount": 82.82
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDPQIPG",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST8XMOE",
+            "name": "Paula Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-22T13:41:04",
+            "preparationTime": 16,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-22T13:25:04",
+        "total": {
+            "orderAmount": 73.14
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDH4OUL",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTYO3PJ",
+            "name": "Bruno Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-24T01:35:28",
+            "preparationTime": 25,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-24T01:10:28",
+        "total": {
+            "orderAmount": 61.74
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDQH5T2",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTD8VET",
+            "name": "Ana Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-02T11:23:19",
+            "preparationTime": 31,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Moema",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-02T10:52:19",
+        "total": {
+            "orderAmount": 98.18
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDXSNHF",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTT4I26",
+            "name": "Karen Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-20T17:09:12",
+            "preparationTime": 32,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-20T16:37:12",
+        "total": {
+            "orderAmount": 106.01
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDDORFK",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTI1IJE",
+            "name": "Marina Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-07-30T23:58:10",
+            "preparationTime": 10,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-07-30T23:48:10",
+        "total": {
+            "orderAmount": 62.16
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD1OA3V",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTF02GV",
+            "name": "João Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-16T01:05:33",
+            "preparationTime": 15,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-16T00:50:33",
+        "total": {
+            "orderAmount": 64.59
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDJXQKD",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST8UR6T",
+            "name": "Henrique Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-17T17:05:51",
+            "preparationTime": 29,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-17T16:36:51",
+        "total": {
+            "orderAmount": 76.44
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDZQUA1",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTQRDLF",
+            "name": "Carla Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-11T02:32:14",
+            "preparationTime": 35,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-11T01:57:14",
+        "total": {
+            "orderAmount": 117.09
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDIFWR0",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTUI1JL",
+            "name": "Karen Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-14T14:42:36",
+            "preparationTime": 23,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-14T14:19:36",
+        "total": {
+            "orderAmount": 111.89
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDJHURR",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST8IQRT",
+            "name": "Carla Souza"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-21T15:19:27",
+            "preparationTime": 46,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-21T14:33:27",
+        "total": {
+            "orderAmount": 95.92
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDSEH5E",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST5RWSF",
+            "name": "Sabrina Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-07-30T08:39:50",
+            "preparationTime": 34,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-07-30T08:05:50",
+        "total": {
+            "orderAmount": 67.64
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDJL6UF",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTKY28N",
+            "name": "Vitória Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-26T15:03:26",
+            "preparationTime": 28,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-26T14:35:26",
+        "total": {
+            "orderAmount": 67.05
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDFZRLG",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTQ9AZH",
+            "name": "Diego Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-09T12:58:12",
+            "preparationTime": 23,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Perdizes",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-09T12:35:12",
+        "total": {
+            "orderAmount": 116.17
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDFMUIW",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST7J35V",
+            "name": "João Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-12T13:31:11",
+            "preparationTime": 16,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-12T13:15:11",
+        "total": {
+            "orderAmount": 63.67
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDHVDHG",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTUESXN",
+            "name": "Tiago Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-29T08:29:05",
+            "preparationTime": 26,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-29T08:03:05",
+        "total": {
+            "orderAmount": 93.67
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDG29D2",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTFF5L6",
+            "name": "Bruno Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-13T00:05:04",
+            "preparationTime": 49,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-12T23:16:04",
+        "total": {
+            "orderAmount": 100.11
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDSEUNN",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTRLST5",
+            "name": "Gabriela Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-29T19:14:24",
+            "preparationTime": 37,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-29T18:37:24",
+        "total": {
+            "orderAmount": 99.89
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD2YUPM",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTANQY0",
+            "name": "Gabriela Gomes"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-14T15:29:02",
+            "preparationTime": 37,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-14T14:52:02",
+        "total": {
+            "orderAmount": 93.63
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDHMHVL",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST66SAJ",
+            "name": "Isabela Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-09T14:51:02",
+            "preparationTime": 34,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Itaim Bibi",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-09T14:17:02",
+        "total": {
+            "orderAmount": 82.45
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORD3579W",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTRR513",
+            "name": "Bruno Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-03T14:41:54",
+            "preparationTime": 26,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Pinheiros",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-03T14:15:54",
+        "total": {
+            "orderAmount": 76.45
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDP4CWC",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTDT9GW",
+            "name": "Ana Santos"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-10T19:35:45",
+            "preparationTime": 21,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-10T19:14:45",
+        "total": {
+            "orderAmount": 112.25
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDAXOYC",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTG1FJG",
+            "name": "Bruno Oliveira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-02T14:44:22",
+            "preparationTime": 47,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Prudente",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-02T13:57:22",
+        "total": {
+            "orderAmount": 103.33
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDLUEQ4",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTD7D7G",
+            "name": "Carla Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-28T17:06:20",
+            "preparationTime": 42,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Santana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-28T16:24:20",
+        "total": {
+            "orderAmount": 84.56
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDNC0I4",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTX6G1E",
+            "name": "Bruno Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-19T04:17:19",
+            "preparationTime": 20,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-19T03:57:19",
+        "total": {
+            "orderAmount": 107.32
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDIG5GK",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTZJRUM",
+            "name": "Rafael Pereira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-28T16:26:49",
+            "preparationTime": 27,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-28T15:59:49",
+        "total": {
+            "orderAmount": 68.43
+        },
+        "salesChannel": "IFOOD",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDHZM32",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTHZS32",
+            "name": "Carla Almeida"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-19T06:51:41",
+            "preparationTime": 47,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Mariana",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-19T06:04:41",
+        "total": {
+            "orderAmount": 83.14
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDSWRQL",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTUX6LD",
+            "name": "Leonardo Silva"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-08-01T02:08:45",
+            "preparationTime": 23,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-08-01T01:45:45",
+        "total": {
+            "orderAmount": 88.06
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDGMFT1",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTPWVZ0",
+            "name": "Paula Ferreira"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-09-29T22:31:22",
+            "preparationTime": 40,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Lapa",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-09-29T21:51:22",
+        "total": {
+            "orderAmount": 80.08
+        },
+        "salesChannel": "EPADOCA",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDK8516",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUSTSP18O",
+            "name": "Ana Lima"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-02T22:18:58",
+            "preparationTime": 48,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Vila Madalena",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-02T21:30:58",
+        "total": {
+            "orderAmount": 80.27
+        },
+        "salesChannel": "DELIVERYVIP",
+        "status": "CONCLUDED"
+    },
+    {
+        "id": "ORDH91EL",
+        "merchant": {
+            "id": "REST123",
+            "name": "La Pasticceria di Roma"
+        },
+        "customer": {
+            "id": "CUST88L12",
+            "name": "Otávio Costa"
+        },
+        "delivery": {
+            "deliveryDateTime": "2025-10-04T18:53:57",
+            "preparationTime": 29,
+            "address": {
+                "city": "São Paulo",
+                "neighborhood": "Tatuapé",
+                "state": "SP"
+            }
+        },
+        "preparationStartDateTime": "2025-10-04T18:24:57",
+        "total": {
+            "orderAmount": 113.2
+        },
+        "salesChannel": "WHATSAPP",
+        "status": "CONCLUDED"
+    }
+]

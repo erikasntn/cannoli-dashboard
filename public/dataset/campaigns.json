@@ -1,0 +1,42 @@
+[
+    {
+        "id": "CMP001",
+        "name": "Volte e Ganhe 10%",
+        "type": "Loyalty",
+        "status": "Completed",
+        "conversionRate": 0.19,
+        "description": "Reactivation of inactive customers."
+    },
+    {
+        "id": "CMP002",
+        "name": "Customer VIP Program",
+        "type": "Loyalty",
+        "status": "Published",
+        "conversionRate": 0.25,
+        "description": "Reward frequent customers with cashback."
+    },
+    {
+        "id": "CMP003",
+        "name": "Doce da Semana",
+        "type": "Promotion",
+        "status": "Completed",
+        "conversionRate": 0.12,
+        "description": "Weekly dessert promotions for engagement."
+    },
+    {
+        "id": "CMP004",
+        "name": "Experiência Cannoli",
+        "type": "Feedback",
+        "status": "Completed",
+        "conversionRate": 0.18,
+        "description": "Collect post-purchase feedback from customers."
+    },
+    {
+        "id": "CMP005",
+        "name": "Amigos da Casa",
+        "type": "Referral",
+        "status": "Published",
+        "conversionRate": 0.08,
+        "description": "Encourage customers to refer new friends."
+    }
+]
