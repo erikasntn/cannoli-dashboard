@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cannoli-dashboard/static/css/main.96b9853c.css",
-    "main.js": "/cannoli-dashboard/static/js/main.ba74e47a.js",
+    "main.js": "/cannoli-dashboard/static/js/main.a5986ebc.js",
     "index.html": "/cannoli-dashboard/index.html",
     "main.96b9853c.css.map": "/cannoli-dashboard/static/css/main.96b9853c.css.map",
-    "main.ba74e47a.js.map": "/cannoli-dashboard/static/js/main.ba74e47a.js.map"
+    "main.a5986ebc.js.map": "/cannoli-dashboard/static/js/main.a5986ebc.js.map"
   },
   "entrypoints": [
     "static/css/main.96b9853c.css",
-    "static/js/main.ba74e47a.js"
+    "static/js/main.a5986ebc.js"
   ]
 }
